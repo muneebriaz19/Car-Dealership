@@ -9,7 +9,6 @@ how I write code today.
 
 - Add cars to the inventory and view what is in stock
 - Record a sale and update the inventory
-- [add or correct whatever the program actually does, one or two more lines]
 
 ## Built with
 
